@@ -1,7 +1,7 @@
 3:I[5613,[],""]
 4:I[1778,[],""]
 5:I[8667,["782","static/chunks/782-9c8bc296ae2a22c5.js","160","static/chunks/app/not-found-3649a14afa2956ec.js"],""]
-0:["aPtK8-x54hQbTtLft_XOk",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",{"children":["__PAGE__",{},["$L1","$L2",null]]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","$L5",null,{}],"notFoundStyles":[],"styles":null}],null]],[null,"$L6"]]]]
+0:["vs7RTfnUqphlZkVUB9HyF",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",{"children":["__PAGE__",{},["$L1","$L2",null]]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","$L5",null,{}],"notFoundStyles":[],"styles":null}],null]],[null,"$L6"]]]]
 2:E{"digest":"NEXT_REDIRECT;replace;/de;307;"}
 6:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","link","2",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
 1:null
