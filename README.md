@@ -1,1 +1,1 @@
-![Production deploy status: ](https://github.com/carmeloteamdev/leben-in-de-prod/workflows/static/badge.svg)
+https://github.com/github/docs/actions/workflows/static.yml/badge.svg
