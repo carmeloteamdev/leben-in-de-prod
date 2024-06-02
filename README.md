@@ -1,1 +1,2 @@
-https://github.com/github/docs/actions/workflows/static.yml/badge.svg
+![Deploy workflow]
+(https://github.com/github/docs/actions/workflows/static.yml/badge.svg)
