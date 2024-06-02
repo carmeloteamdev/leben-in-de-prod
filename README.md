@@ -19,7 +19,7 @@
    - Practice Tests: Users can take tests online, receive instant feedback on each question, and see the correct answers.
    - Interactivity: It is possible to track your progress and identify which topics need further study.
    - Multilingual: Although the main language of the site is German, many sections and instructions may be available in English and other languages, which facilitates preparation for migrants.
-   - 
+     
 5. Additional Resources:
    - Extensive question database, regularly updated according to changes in the exam program.
    - Useful articles and tips for preparing for the test and living in Germany.
